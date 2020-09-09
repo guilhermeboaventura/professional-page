@@ -5,26 +5,28 @@ body {
 
 h1 {
     font-family: 'Righteous', cursive;
-    font-size: 2.60rem;
+    font-size: 3rem;
     color: #f1f3f8;
 }
 
 h2 {
+    color: #393e46;
     font-family: 'Ubuntu', sans-serif;
     font-size: 2rem;
     padding-bottom: 1rem;
 }
 
 h3 {
+    color: #393e46;
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.5rem;
+    margin: 2rem auto;
 }
 
 p {
+    color: #222831;
     font-family: 'Libre Baskerville', serif;
     font-size: 1rem;
-    margin: 0 25rem;
-    line-height: 1.7rem;
     margin-bottom: 4rem;
 }
 
@@ -51,6 +53,8 @@ hr {
 
 .a-programmer {
     color: #f1f3f8;
+    font-weight: normal;
+    line-height: 2;
 }
 
 .profile-img {
@@ -112,4 +116,10 @@ hr {
     display: flex;
     justify-content: center;
     padding: 2rem;
+}
+
+.skill-row {
+    margin: 3rem auto;
+    width: 50%;
+    line-height: 2rem;
 }
