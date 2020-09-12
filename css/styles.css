@@ -38,8 +38,13 @@ hr {
     width: 10%;
 }
 
-#p {
+#p-footer {
     margin-bottom: 1rem;
+}
+
+#apresentation {
+    width: 40%;
+    margin: 1rem auto;
 }
 
 .div-hr {
