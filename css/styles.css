@@ -1,12 +1,24 @@
+/* default elements */
 body {
     margin: 0 auto;
     text-align: center;
 }
 
-h1 {
+/* header */
+.header-title {
     font-family: 'Righteous', cursive;
     font-size: 3rem;
     color: #f1f3f8;
+}
+
+.header-subtitle {
+    color: #f1f3f8;
+    padding-top: 1rem;
+}
+
+.header-content {
+    background-color: #41444b;
+    padding: 6rem;
 }
 
 h2 {
@@ -56,12 +68,6 @@ hr {
     padding: 0 3rem;
 }
 
-.a-programmer {
-    color: #f1f3f8;
-    font-weight: normal;
-    line-height: 2;
-}
-
 .profile-img {
     padding-top: 2rem;
     width: 13.5rem;
@@ -94,11 +100,6 @@ hr {
 
 .btn-border {
     padding: 1.5rem;
-}
-
-.top-container {
-    background-color: #222831;
-    padding: 6rem;
 }
 
 .middle-container {
