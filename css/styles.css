@@ -1,131 +1,148 @@
 /* default elements */
 body {
-    margin: 0 auto;
-    text-align: center;
+  margin: 0 auto;
+  text-align: center;
 }
 
 /* header */
 .header-title {
-    font-family: 'Righteous', cursive;
-    font-size: 3rem;
-    color: #f1f3f8;
+  font-family: "Righteous", cursive;
+  font-size: 3rem;
+  color: #f1f3f8;
 }
 
 .header-subtitle {
-    color: #f1f3f8;
-    padding-top: 1rem;
+  color: #f1f3f8;
+  padding-top: 1rem;
 }
 
 .header-content {
-    background-color: #41444b;
-    padding: 6rem;
+  background-color: #41444b;
+  padding: 6rem;
 }
 
 h2 {
-    color: #393e46;
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 2rem;
-    padding-bottom: 1rem;
+  color: #393e46;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2rem;
+  padding-bottom: 1rem;
 }
 
 h3 {
-    color: #393e46;
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 1.5rem;
-    margin: 2rem auto;
+  color: #393e46;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 1.5rem;
+  margin: 2rem auto;
 }
 
 p {
-    color: #222831;
-    font-family: 'Libre Baskerville', serif;
-    font-size: 1rem;
-    margin-bottom: 4rem;
+  color: #222831;
+  font-family: "Libre Baskerville", serif;
+  font-size: 1rem;
+  margin-bottom: 4rem;
 }
 
 hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid #222831;
-    border-bottom: 1px solid #f1f3f8;
-    width: 10%;
+  border: 0;
+  height: 0;
+  border-top: 1px solid #222831;
+  border-bottom: 1px solid #f1f3f8;
+  width: 10%;
 }
 
 #p-footer {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 #apresentation {
-    width: 40%;
-    margin: 1rem auto;
+  width: 40%;
+  margin: 1rem auto;
 }
 
 .div-hr {
-    margin: 4rem;
+  margin: 4rem;
 }
 
 .flags {
-    width: 7rem;
-    padding: 0 3rem;
+  width: 7rem;
+  padding: 0 3rem;
 }
 
 .profile-img {
-    padding-top: 2rem;
-    width: 13.5rem;
+  padding-top: 2rem;
+  width: 13.5rem;
 }
 
 .pro {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .copyright {
-    color: #f1f3f8;
-    font-size: 0.8rem;
+  color: #f1f3f8;
+  font-size: 0.8rem;
 }
 
 .footer-link {
-    color: #f1f3f8;
-    display: inline-block;
-    font-family: 'Libre Baskerville', serif;
+  color: #f1f3f8;
+  display: inline-block;
+  font-family: "Libre Baskerville", serif;
 }
 
 .img-social-logo {
-    width: 3rem;
-    padding: 0 3rem 1rem 3rem;
-}
-
-.btn {
-    color: #222831;
-    font-family: 'Libre Baskerville', serif;
+  width: 3rem;
+  padding: 0 3rem 1rem 3rem;
 }
 
 .btn-border {
-    padding: 1.5rem;
+  padding-bottom: 3rem;
 }
 
 .middle-container {
-    background-color: #dbdbdb;
-    padding-bottom: 0;
+  background-color: #dbdbdb;
+  padding-bottom: 0;
 }
 
 .bottom-container {
-    background-color: #30475e;
-    padding-top: 0rem;
-    padding-bottom: 1rem;
+  background-color: #30475e;
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+}
+
+.container-title {
+  padding-bottom: 3rem;
+  width: 2rem;
+}
+
+.portfolio-title {
+  font-size: 2.5rem;
+  color: #41444b;
+  margin: 0;
+  padding: 2rem;
+}
+
+.portfolio-images {
+  width: 20rem;
+  padding: 3rem;
+  position: relative;
+}
+
+.container-portfolio {
+  width: 100%;
 }
 
 .div-flag {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .div-logo {
-    display: flex;
-    justify-content: center;
-    padding: 2rem;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
 }
 
 .skill-row {
-    margin: 3rem auto;
-    width: 50%;
-    line-height: 2rem;
+  margin: 3rem auto;
+  width: 50%;
+  line-height: 2rem;
 }
